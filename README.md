@@ -2,6 +2,13 @@
 
 CODE:
 
+-Functions and libraries:
+
+functionscontrol.py
+
+-Contro system:
+stream_out_FIO.py
+
 PCB HARDWARE:
 
 -Eagle Schematic and Board files in:
