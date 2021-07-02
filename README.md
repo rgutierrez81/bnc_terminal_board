@@ -1,6 +1,4 @@
-# bnc_terminal_board
-
-Labjack T7 code, boards and schematics used in cold atoms experiments. 
+#Labjack T7 code, boards and schematics used in cold atoms experiments. 
 
 CODE:
 
